@@ -1,7 +1,6 @@
-﻿using System;
-using System.Runtime.InteropServices;
+﻿using System.Runtime.InteropServices;
 
-namespace IconUtilities
+namespace System.Drawing.Structs
 {
 	[StructLayout(LayoutKind.Sequential)]
 	internal struct IMAGELISTDRAWPARAMS

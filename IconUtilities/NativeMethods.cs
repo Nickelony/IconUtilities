@@ -1,8 +1,9 @@
-﻿using System;
+﻿using System.Drawing.Interfaces;
+using System.Drawing.Structs;
 using System.Runtime.InteropServices;
 using System.Security;
 
-namespace IconUtilities
+namespace System.Drawing
 {
 	[SuppressUnmanagedCodeSecurity]
 	internal static class NativeMethods

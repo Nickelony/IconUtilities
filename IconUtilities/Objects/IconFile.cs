@@ -1,8 +1,8 @@
-﻿using System;
+﻿using System.Drawing.Structs;
 using System.IO;
 using System.Runtime.InteropServices;
 
-namespace IconUtilities
+namespace System.Drawing.Objects
 {
 	internal class IconFile
 	{

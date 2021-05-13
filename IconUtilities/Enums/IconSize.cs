@@ -1,4 +1,4 @@
-﻿namespace IconUtilities
+﻿namespace System.Drawing
 {
 	public enum IconSize : int
 	{

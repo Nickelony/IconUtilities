@@ -1,8 +1,7 @@
-﻿using System;
-using System.Drawing;
+﻿using System.Drawing.Structs;
 using System.Runtime.InteropServices;
 
-namespace IconUtilities
+namespace System.Drawing.Interfaces
 {
 	[ComImport]
 	[Guid("46EB5926-582E-4017-9FDF-E8998DAA0950")]

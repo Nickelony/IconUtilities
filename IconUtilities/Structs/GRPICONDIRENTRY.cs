@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 
-namespace IconUtilities
+namespace System.Drawing.Structs
 {
 	[StructLayout(LayoutKind.Sequential, Pack = 2)]
 	internal struct GRPICONDIRENTRY
