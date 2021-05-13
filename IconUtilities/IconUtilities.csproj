@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<Authors>Kewin Kupilas</Authors>
+		<Description>A collection of methods for injecting or extracting icons from files on Windows operating systems.</Description>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<RepositoryUrl>https://github.com/Nickelony/IconUtilities</RepositoryUrl>
+		<PackageTags>icon injector injection extractor extraction windows</PackageTags>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="System.Drawing.Common" Version="5.0.2" />
+	</ItemGroup>
+</Project>
