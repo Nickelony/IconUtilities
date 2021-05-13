@@ -6,7 +6,7 @@
 		<Description>A collection of methods for injecting or extracting icons from files on Windows operating systems.</Description>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<RepositoryUrl>https://github.com/Nickelony/IconUtilities</RepositoryUrl>
-		<PackageTags>icon injector injection extractor extraction windows</PackageTags>
+		<PackageTags>icon injector injection jumbo large extractor extraction windows</PackageTags>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<Version>1.0.1</Version>
 	</PropertyGroup>
